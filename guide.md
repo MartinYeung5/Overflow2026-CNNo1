@@ -6,6 +6,26 @@
 
 ---
 
+## 时间线 / Timeline
+
+> 具体日期以官方公布为准，以下时间均为 Pacific Time。
+
+| 阶段 | 时间 | 说明 |
+|------|------|------|
+| 黑客松启动 | Sui Live Miami 期间 | 赛道公布、奖池公布、黑客松正式开启 |
+| 开发阶段 | 启动后 ~2 个月 | 活跃构建期，参与 Workshop 获取资源和支持 |
+| Workshop 系列 | 开发期间 | Overflow 团队覆盖参赛所需资源和构建指导 |
+| 提交截止 | 待公布 | 所有项目提交的最终截止日期。截止后仍可修改，但可能不被纳入初筛 |
+| 入围公布 | 截止后 | 入围团队公布 |
+| Demo Day | 入围后 | 入围团队现场展示项目 |
+| 最终获奖公布 | Demo Day 后 | 获奖者公布，受邀在 Sui Basecamp 2026 上 Pitch |
+
+**赛后路径：** Hackathon → Shortlisting → Demo Day → Winning → Mainnet Launch
+
+顶级团队还可能获得：生态支持和持续曝光、融资和招聘机会、加速器引荐、Office Hours 和 Pitch Deck 辅导。
+
+---
+
 ## 前提条件
 
 - 有一个 GitHub 账号
@@ -117,12 +137,25 @@ submissions/
 | 部署环境 | Testnet 或 Mainnet |
 | Package ID | 如已部署链上 |
 
-### 评审标准
+### 评审标准 / Judging Criteria
 
-- **产品体验** — 质量、可用性、打磨程度和整体用户体验
-- **解决问题** — 有意义的问题、市场相关性和长期价值
-- **技术质量** — 可靠性、与 Sui 的深度整合
-- **表达与愿景** — 表达清晰、叙事和长期愿景
+**核心赛道项目主要从以下维度评估：**
+
+| 维度 | 说明 |
+|------|------|
+| 产品体验 / Product Experience | 质量、可用性、打磨程度和整体用户体验 |
+| 解决问题 / Problem-Solving | 有意义的问题、市场相关性和长期价值 |
+| 技术质量 / Technical Quality | 可靠性、与 Sui 的深度整合 |
+| 表达与愿景 / Presentation & Vision | 表达清晰、叙事和长期愿景 |
+
+**优秀项目通常具备：**
+- 解决有意义的问题
+- 打磨良好的用户体验
+- 深度利用 Sui 的能力（而非浅层集成）
+- 展现扎实的产品思维
+- 具有超越黑客松的长期潜力
+
+> Overflow 注重有意义的产品和生态影响，而非纯技术演示。
 
 ### 学生奖
 
@@ -134,6 +167,31 @@ submissions/
 - 获奖公布时发放 **50%**
 - 成功部署主网后发放剩余 **50%**
 - 截止时已部署主网的项目 → **100% 一次性发放**
+
+---
+
+## Resource Hub / 资源中心
+
+官方提供的技术资源和赞助方工具：
+
+| 资源 | 说明 | 链接 |
+|------|------|------|
+| Seal | Walrus 和 MemWal 的隐私层 | [Seal Docs](https://docs.sui.io) |
+| Sui Stack Messaging | 基于 Walrus 存储 + Seal 隐私的消息工具 | [GitHub](https://github.com/MystenLabs) |
+| Walrus | AI 和链上金融的可验证数据平台 | [walrus.site](https://walrus.site) |
+| DeepBook | Sui 链上流动性层，支持现货、保证金和预测市场 | [deepbook.tech](https://deepbook.tech) |
+| OtterSec | 链上安全审计标准 | [osec.io](https://osec.io) |
+| Scallop | Sui 生态下一代货币市场 | [scallop.io](https://scallop.io) |
+
+**赛道专属资源：**
+- **Agentic Web** — Problem Statement: [agentic-web-problem-statement](https://mystenlabs.notion.site/agentic-web-problem-statement)
+- **DeFi & Payments** — Problem Statement: [defi-payments-problem-statement](https://mystenlabs.notion.site/defi-payments-problem-statement)
+- **Walrus** — Problem Statement: [walrus-track-problem-statement](https://mystenlabs.notion.site/walrus-track-problem-statement)
+- **DeepBook** — Problem Statement: [deepbook-predict-problem-statement](https://mystenlabs.notion.site/deepbook-predict-problem-statement)
+
+**社区与支持：**
+- 与建设者、导师和 Overflow 团队交流
+- 关注公告和更新
 
 ---
 

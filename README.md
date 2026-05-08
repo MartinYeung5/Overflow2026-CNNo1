@@ -36,6 +36,18 @@ submissions/
 | Walrus | Walrus 可验证数据 | $35,000 | [查看](tracks/walrus.md) |
 | DeepBook | DeepBook 链上预测市场 | $35,000 | [查看](tracks/deepbook.md) |
 
+## Timeline / 时间线
+
+| 阶段 | 时间 (Pacific Time) | 说明 |
+|------|------|------|
+| 黑客松启动 | Sui Live Miami 期间 | 赛道公布、奖池公布、黑客松正式开启 |
+| 开发阶段 | 启动后 ~2 个月 | 活跃构建期，参与 Workshop 获取资源和支持 |
+| Workshop 系列 | 开发期间 | Overflow 团队覆盖参赛所需资源和构建指导 |
+| 提交截止 | 待公布 | 所有项目提交的最终截止日期 |
+| 入围公布 | 截止后 | 入围团队公布，入围团队将在 Demo Day 现场展示 |
+| Demo Day | 入围后 | 入围团队现场展示项目 |
+| 最终获奖 | Demo Day 后 | 获奖者公布，受邀在 Sui Basecamp 2026 上 Pitch |
+
 ## Prizes / 奖金
 
 **奖金分配规则：50/50 分期发放**
@@ -64,6 +76,34 @@ submissions/
 | 网站 | 可选，强烈建议 |
 | 部署环境 | Testnet 或 Mainnet |
 | Package ID | 如已部署链上 |
+
+## Judging Criteria / 评审标准
+
+| 维度 | 说明 |
+|------|------|
+| 产品体验 | 质量、可用性、打磨程度和整体用户体验 |
+| 解决问题 | 有意义的问题、市场相关性和长期价值 |
+| 技术质量 | 可靠性、与 Sui 的深度整合 |
+| 表达与愿景 | 表达清晰、叙事和长期愿景 |
+
+> Overflow 注重有意义的产品和生态影响，而非纯技术演示。
+
+## Resource Hub / 资源中心
+
+| 资源 | 说明 |
+|------|------|
+| [Seal](https://docs.sui.io) | Walrus 和 MemWal 的隐私层 |
+| [Walrus](https://walrus.site) | AI 和链上金融的可验证数据平台 |
+| [DeepBook](https://deepbook.tech) | Sui 链上流动性层（现货、保证金、预测市场） |
+| [OtterSec](https://osec.io) | 链上安全审计标准 |
+| [Scallop](https://scallop.io) | Sui 生态下一代货币市场 |
+| [Handbook](https://mystenlabs.notion.site/overflow-2026-handbook) | 官方参赛手册 |
+
+**赛道 Problem Statements：**
+- [Agentic Web](https://mystenlabs.notion.site/agentic-web-problem-statement)
+- [DeFi & Payments](https://mystenlabs.notion.site/defi-payments-problem-statement)
+- [Walrus](https://mystenlabs.notion.site/walrus-track-problem-statement)
+- [DeepBook](https://mystenlabs.notion.site/deepbook-predict-problem-statement)
 
 ## Important / 重要说明
 
